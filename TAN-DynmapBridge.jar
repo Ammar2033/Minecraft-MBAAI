@@ -1,0 +1,6 @@
+Simülasyon: TAN-DynmapBridge.jar
+Bu dosya, TownsAndNations (TAN) kasabalarını Dynmap üzerinde otomatik olarak gösterir.
+- Chunk bazlı alan çizimi
+- Belediye başkanı, ulus, vergi, açıklama tooltiplari
+- Uluslara göre renk ve ikon atama
+- Dinamik güncellenme desteği
